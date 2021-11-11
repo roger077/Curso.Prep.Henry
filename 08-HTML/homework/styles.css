@@ -1,6 +1,10 @@
 h1{
     color: firebrick;
 }
+body{
+    background-image:url("https://images3.alphacoders.com/206/206197.jpg");
+    color: white;
+}
 img{
     width: 400px;
 }
@@ -13,4 +17,8 @@ img{
     background-color: tomato;
     margin: 50px;
     border: solid 10px black;
+}
+div{
+    display: flex;
+    justify-content: space-around;
 }
